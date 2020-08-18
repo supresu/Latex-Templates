@@ -11,8 +11,6 @@
 👕🤜 &nbsp;Latex 模板合集，旨在帮助大家输出更加漂亮、干净、专业的文稿 👯👯👯<br/>
 👖
 
-<br/>
-
 ---
 ## 全国各高校模板（持续整理更新）
 
@@ -36,3 +34,13 @@
 | <img src="./imgs/university/scnu.png" width="36" align="bottom" /> | [华南师范大学（South China Normal University, SCNU）](https://www.scnu.edu.cn/) | [scnuthesis](https://github.com/scnu/scnuthesis) |   |
 | <img src="./imgs/university/xjtu.png" width="36" align="bottom" /> | [西安交通大学（Xi'an Jiaotong University, XJTU）](http://www.xjtu.edu.cn/) | [xjtuthesis](https://github.com/Aetf/xjtuthesis) |   |
 | <img src="./imgs/university/zju.png" width="36" align="bottom" /> | [浙江大学（Zhejiang University, ZJU）](http://www.zju.edu.cn/) | [zju-csse-undergraduate-design-latex-template](https://github.com/zhanghai/zju-csse-undergraduate-design-latex-template) |   |
+
+---
+## 简历模板（持续整理更新）
+
+
+| 预览   | 模板链接   |  备注  |
+| :---- | :----| :---- | :---- |
+| <img src="./imgs/cv/01.png" width="100" align="bottom" />   | [resume](https://github.com/billryan/resume/tree/zh_CN)   |  一个简洁优雅的 XeLaTeX 简历模板  |
+| <img src="./imgs/cv/02.png" width="100" align="bottom" />   | [resume](https://github.com/liweitianux/resume)   |  Font Awesome 5 LaTeX style  |
+| <img src="./imgs/cv/03.png" width="100" align="bottom" />   | [myCV](https://github.com/MaxUlysse/myCV)   |  My own CV made with compile-latex  |
