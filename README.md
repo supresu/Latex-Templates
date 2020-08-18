@@ -50,3 +50,4 @@
 | <img src="./imgs/cv/05.png" width="100" align="bottom" />   | [resumake.io](https://resumake.io/)   |  一个自动生成精美 LaTeX 简历的网站  |
 | <img src="./imgs/cv/06.png" width="100" align="bottom" />   | [Data-Engineer-Resume-LaTeX](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX)   |  为求职数据科学家/工程师的人量身定制的 Latex 简历模版  |
 | <img src="./imgs/cv/07.png" width="100" align="bottom" />   | [Awesome-CV](https://github.com/posquit0/Awesome-CV)   |  受 [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv) 启发的简历或求职信的 LaTeX 模板 |
+| <img src="./imgs/cv/overleaf.png" width="100" align="bottom" />   | [Overleaf Templates — Résumé / CV](https://www.overleaf.com/latex/templates/tagged/cv/page/1)   | Overleaf 上的 Latex 简历模板，可以直接在 Overleaf 编辑并生成自己的简历 |
