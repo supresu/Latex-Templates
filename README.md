@@ -28,3 +28,11 @@
 | <img src="./imgs/university/bupt.png" width="36" align="bottom" /> | [北京邮电大学（Beijing University of Posts and Telecommunications, BUPT）](https://www.bupt.edu.cn/) | [BUPTBachelorThesis](https://github.com/sheng-qiang/BUPTBachelorThesis) |   |
 | <img src="./imgs/university/gu.png" width="36" align="bottom" /> | [广州大学（Guangzhou University, GU）](http://www.gzhu.edu.cn/) | [GZHU-Report-Latex-Version](https://github.com/swq123459/GZHU-Report-Latex-Version) |   |
 | <img src="./imgs/university/hust.png" width="36" align="bottom" /> | [华中科技大学（Huazhong University of Science and Technology, HUST）](https://www.hust.edu.cn/) | [HUSTPaperTemp](https://github.com/skinaze/HUSTPaperTemp) |   |
+| <img src="./imgs/university/whu.png" width="36" align="bottom" /> | [武汉大学（Wuhan University, WHU）](https://www.whu.edu.cn/) | [whu-thesis](https://github.com/mtobeiyf/whu-thesis) |   |
+| <img src="./imgs/university/nju.png" width="36" align="bottom" /> | [南京大学（Nanjing University, NJU）](https://www.nju.edu.cn/) | [njuthesis-nju-thesis-template](https://github.com/njuHan/njuthesis-nju-thesis-template) |   |
+| <img src="./imgs/university/tongji.png" width="36" align="bottom" /> | [同济大学（Tongji University）](https://www.tongji.edu.cn/) | [TongjiThesis](https://github.com/marquistj13/TongjiThesis) |   |
+| <img src="./imgs/university/scut.png" width="36" align="bottom" /> | [华南理工大学（South China University of Technology, SCUT）](https://www.scut.edu.cn/) | [scutthesis](https://github.com/alwintsui/scutthesis) |   |
+| <img src="./imgs/university/cqu.png" width="36" align="bottom" /> | [重庆大学（Chongqing University, CQU）](https://www.scut.edu.cn/) | [CQUThesis](https://github.com/nanmu42/CQUThesis) |   |
+| <img src="./imgs/university/scnu.png" width="36" align="bottom" /> | [华南师范大学（South China Normal University, SCNU）](https://www.scnu.edu.cn/) | [scnuthesis](https://github.com/scnu/scnuthesis) |   |
+| <img src="./imgs/university/xjtu.png" width="36" align="bottom" /> | [西安交通大学（Xi'an Jiaotong University, XJTU）](http://www.xjtu.edu.cn/) | [xjtuthesis](https://github.com/Aetf/xjtuthesis) |   |
+| <img src="./imgs/university/zju.png" width="36" align="bottom" /> | [浙江大学（Zhejiang University, ZJU）](http://www.zju.edu.cn/) | [zju-csse-undergraduate-design-latex-template](https://github.com/zhanghai/zju-csse-undergraduate-design-latex-template) |   |
