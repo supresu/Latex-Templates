@@ -41,6 +41,12 @@
 
 | 预览   | 模板链接   |  备注  |
 | :---- | :----| :---- |
+| | [awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) | 适合中文的简历模板 |
+| <img src="./imgs/cv/00.png" width="100" align="bottom" /> | [LaTex CV and Resume Collection](https://github.com/jankapunkt/latexcv) | A collection of simple and easy to use, yet powerful LaTeX templates for CVs and resumes |
 | <img src="./imgs/cv/01.png" width="100" align="bottom" />   | [resume](https://github.com/billryan/resume/tree/zh_CN)   |  一个简洁优雅的 XeLaTeX 简历模板  |
 | <img src="./imgs/cv/02.png" width="100" align="bottom" />   | [resume](https://github.com/liweitianux/resume)   |  Font Awesome 5 LaTeX style  |
 | <img src="./imgs/cv/03.png" width="100" align="bottom" />   | [myCV](https://github.com/MaxUlysse/myCV)   |  My own CV made with compile-latex  |
+| <img src="./imgs/cv/04.png" width="100" align="bottom" />   | [classycv](https://github.com/classysoftware/classycv)   |  For classy job applications, including a themes and extension library.  |
+| <img src="./imgs/cv/05.png" width="100" align="bottom" />   | [resumake.io](https://resumake.io/)   |  一个自动生成精美 LaTeX 简历的网站  |
+| <img src="./imgs/cv/06.png" width="100" align="bottom" />   | [Data-Engineer-Resume-LaTeX](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX)   |  为求职数据科学家/工程师的人量身定制的 Latex 简历模版  |
+| <img src="./imgs/cv/07.png" width="100" align="bottom" />   | [Awesome-CV](https://github.com/posquit0/Awesome-CV)   |  为求职数据科学家/工程师的人量身定制的 Latex 简历模版  |
