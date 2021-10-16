@@ -34,6 +34,7 @@
 | <img src="./imgs/university/scnu.png" width="36" align="bottom" /> | [华南师范大学（South China Normal University, SCNU）](https://www.scnu.edu.cn/) | [scnuthesis](https://github.com/scnu/scnuthesis) |   |
 | <img src="./imgs/university/xjtu.png" width="36" align="bottom" /> | [西安交通大学（Xi'an Jiaotong University, XJTU）](http://www.xjtu.edu.cn/) | [xjtuthesis](https://github.com/Aetf/xjtuthesis) |   |
 | <img src="./imgs/university/zju.png" width="36" align="bottom" /> | [浙江大学（Zhejiang University, ZJU）](http://www.zju.edu.cn/) | [zju-csse-undergraduate-design-latex-template](https://github.com/zhanghai/zju-csse-undergraduate-design-latex-template) |   |
+| <img src="./imgs/university/chu.png" width="36" align="bottom" /> | [长安大学（Chang'an University, CHD）](https://www.chd.edu.cn/) | [chdthesis](https://github.com/xiaoleeza/chdthesis) |   |
 
 ---
 ## 简历模板（持续整理更新）
@@ -51,3 +52,25 @@
 | <img src="./imgs/cv/06.png" width="100" align="bottom" />   | [Data-Engineer-Resume-LaTeX](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX)   |  为求职数据科学家/工程师的人量身定制的 Latex 简历模版  |
 | <img src="./imgs/cv/07.png" width="100" align="bottom" />   | [Awesome-CV](https://github.com/posquit0/Awesome-CV)   |  受 [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv) 启发的简历或求职信的 LaTeX 模板 |
 | <img src="./imgs/cv/overleaf.png" width="100" align="bottom" />   | [Overleaf Templates — Résumé / CV](https://www.overleaf.com/latex/templates/tagged/cv/page/1)   | Overleaf 上的 Latex 简历模板，可以直接在 Overleaf 编辑并生成自己的简历 |
+| **creodocs**   | [CVs and Resumes](http://www.latextemplates.com/cat/curricula-vitae)   | 新西兰一家小型企业，基于 LaTeX 创建用于商业、学术和个人用途的高质量文档 |
+
+---
+## 有趣的 Latex 玩法推荐
+
+| 说明   | 网址链接   |  备注  |
+| :---- | :----| :---- |
+| 开源的数学白板工具 | [Muboard](https://github.com/susam/muboard) |
+| 各国国旗 | [Flags](https://www.overleaf.com/gallery/tagged/insignia) |
+| 用Tikz 画神舟12号 | [https://mp.weixin.qq.com/s/14VzXQ3Q35Ut8H92qhdZnQ](https://mp.weixin.qq.com/s/14VzXQ3Q35Ut8H92qhdZnQ) |
+
+---
+## CTAN（The Comprehensive TEX Archive Network）
+* [https://ctan.org/mirrors/](https://ctan.org/mirrors/)
+* [https://ctan.org/mirrors/mirmon#cn](https://ctan.org/mirrors/mirmon#cn)
+
+
+---
+## 相关网站
+> * [Latex 工作室](https://www.latexstudio.net/)
+> * [Learn LaTeX](https://www.learnlatex.org/en/)
+> * [LaTeX Templates](http://www.latextemplates.com/)
